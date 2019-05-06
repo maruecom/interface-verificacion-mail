@@ -1,0 +1,67 @@
+body{
+    margin: 0px;
+    background-color: #6d7fee;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: url(../img/fondo-lineas.png); 
+    height: 100vh;   
+    width: 100vw;
+}
+
+.logo {
+    width: 208px;
+    padding-bottom: 12px;
+}
+
+.parrafo {
+    width: 80vw;
+    color: #ffffff;
+    font-family: "Roboto",serif;
+    font-size: 22px;
+    font-weight: normal;
+    line-height: 26px;
+    text-align: center;
+  
+
+   
+
+}
+
+.cta {
+    
+   height: auto;
+    width: 200px;
+   margin: 50px;
+   margin: 50px auto;
+  
+
+}
+
+.but {
+    background: #f81394;
+    border-radius: 20px;   
+    cursor: pointer;
+    text-decoration: none;
+    font: 24px Roboto;
+    color: #ffffff;
+    padding: 10px 30px 10px 30px;
+    
+}
+
+.gracias{
+    font-family: "Roboto",serif;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+img {
+    width: 64px;
+    height: auto;
+    padding-bottom: 19px;
+}
